@@ -1,4 +1,4 @@
-# Project: Customer Retention Analysis for TV Services
+# Project 1: Customer Retention Analysis for TV Services
 
 ## Overview
 During my tenure at a telecom company in Brazil, I undertook a comprehensive analysis aimed at enhancing customer retention strategies for TV services. This project leveraged extensive data from internal databases to uncover insights into customer behaviors and churn indicators.
