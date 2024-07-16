@@ -1,38 +1,91 @@
-# Project 1: Customer Retention Analysis for TV Services
+# Danyella Santana - Data Analyst Portfolio
 
-## Overview
-During my tenure at a telecom company in Brazil, I undertook a comprehensive analysis aimed at enhancing customer retention strategies for TV services. This project leveraged extensive data from internal databases to uncover insights into customer behaviors and churn indicators.
+## About
+Hello! I'm Danyella Santana, a Data Analyst based in Dublin, Ireland. With a background in SQL, Python, CRM, Tableau, and Power BI, I thrive on analyzing large datasets to derive actionable insights that drive business decisions. You can find my CV [here](link_to_your_cv).
 
-## Objective
-The primary goal of this analysis was to identify factors influencing customer retention and churn, enabling the company to proactively address customer attrition and optimize service offerings.
+This repository serves as a platform to showcase my skills, share projects, and track my journey in Data Analysis and related fields.
 
-## Data Utilized
-I utilized data sourced from three main datasets:
+## Table of Contents
+- [About](#about)
+- [Portfolio Projects](#portfolio-projects)
+  - [Python](#python)
+  - [SQL](#sql)
+  - [Power BI](#power-bi)
+  - [Excel / Google Sheets](#excel--google-sheets)
+  - [Tableau](#tableau)
+- [Education](#education)
+- [Certifications](#certifications)
+- [Contact](#contact)
 
-- PLNTA: Dataset containing historical customer data related to TV service retention.
-- RET: Dataset capturing customer withdrawal information.
-- GROSS_TV: Comprehensive dataset encompassing various customer attributes and service details.
+## Portfolio Projects
 
-## Methods and Techniques
-To achieve the project goals, I employed a combination of SAS programming techniques:
-Macro Development: Developed a versatile SAS macro (%MACRO ANOMES_RET) to efficiently process monthly data spanning multiple years.
-Data Preparation: Utilized SAS data steps for data cleaning, merging (MERGE), and filtering (WHERE).
-SQL Queries: Implemented PROC SQL for complex data manipulations, including joins (LEFT JOIN) and aggregation (GROUP BY).
-Insights and Impact
-Through rigorous analysis and interpretation of the data, I uncovered crucial insights:
+### Python
 
-Identification of key churn indicators (INDICADOR_CHURN) and their correlation with customer demographics and service usage.
-Calculation of customer retention aging (AGING_RETIRADA) and segmentation into retention age brackets (FAIXA_AGING_RET).
-Business Value
-This analysis provided actionable insights that could potentially:
+#### Project 1: [Project Name]
+- **Code:** [Project Code.ipynb](link_to_code)
+- **Goal:** [Brief description of the project goal]
+- **Description:** [Detailed description of the project]
+- **Skills:** [Skills utilized in the project]
+- **Technology:** [Technologies used]
+- **Results:** [Outcome or results achieved]
 
-Inform targeted marketing strategies to retain at-risk customers.
-Optimize service plans and customer support initiatives based on behavioral patterns and retention trends.
-Tools Used
-I utilized SAS programming language and tools such as SAS Enterprise Guide to execute data manipulation tasks efficiently and generate insightful visualizations.
+### SQL
 
-## Challenges and Solutions
-Throughout the project, I encountered challenges such as managing large datasets and ensuring data consistency. By leveraging SAS’s robust capabilities and applying meticulous data validation processes, I successfully overcame these challenges to deliver accurate and actionable insights.
+#### Project 2: [Project Name]
+- **Code:** [Project Code.sql](link_to_code)
+- **Goal:** [Brief description of the project goal]
+- **Description:** [Detailed description of the project]
+- **Skills:** [Skills utilized in the project]
+- **Technology:** [Technologies used]
+- **Results:** [Outcome or results achieved]
 
-## Conclusion
-This project not only enhanced my proficiency in data analysis and SAS programming but also demonstrated my ability to contribute strategically to business objectives. The insights gained have the potential to significantly impact customer retention efforts within the telecom sector, underscoring the value of data-driven decision-making in driving business success.
+### Power BI
+
+#### Project 3: [Project Name]
+- **Code:** [Project Code.pbix](link_to_code)
+- **Goal:** [Brief description of the project goal]
+- **Description:** [Detailed description of the project]
+- **Skills:** [Skills utilized in the project]
+- **Technology:** [Technologies used]
+- **Results:** [Outcome or results achieved]
+
+### Excel / Google Sheets
+
+#### Project 4: [Project Name]
+- **Code:** [Project Code.xlsx](link_to_code)
+- **Goal:** [Brief description of the project goal]
+- **Description:** [Detailed description of the project]
+- **Skills:** [Skills utilized in the project]
+- **Technology:** [Technologies used]
+- **Results:** [Outcome or results achieved]
+
+### Tableau
+
+#### Project 5: [Project Name]
+- **Code:** [Project Code.twbx](link_to_code)
+- **Goal:** [Brief description of the project goal]
+- **Description:** [Detailed description of the project]
+- **Skills:** [Skills utilized in the project]
+- **Technology:** [Technologies used]
+- **Results:** [Outcome or results achieved]
+
+## Education
+- **Master of Business Administration - MBA**
+  - *IT Project Management, FAVENI, 2021 - 2022*
+- **Bachelor of Business Administration - BBA**
+  - *Administração e Negócios, Universidade Federal Rural do Rio de Janeiro, Jan 2015 - Aug 2019*
+
+## Top Skills
+- Python (Programming Language)
+- Tableau
+- SQL
+- SAS
+
+## Certifications
+- Foundations of Data Science
+- Foundations of Data Science Certificate, Google 2024.
+- Introductory Data Analyst Course, UCD. Jul 2023
+
+## Contact
+- Email: danycsantana@live.com
+- LinkedIn: [Danyella Santana](https://www.linkedin.com/in/danyellasantana)
