@@ -24,7 +24,7 @@ This repository serves as a platform to showcase my skills, share projects, and 
 ### Python
 
 #### Project 1: Telecom Churn Analysis
-- **Code:** Project Code.ipynb
+- **Code:** [Project Code.sql](UCDPA_DANYELLASANTANA(1).ipynb)
 - **Goal:** Analyze customer churn in the telecom industry to provide insights for improving customer retention strategies.
 - **Description:** This project focuses on analyzing customer churn using Python, with a dataset obtained from Kaggle. The dataset includes customer demographics, call usage patterns, and service interactions. Using Python libraries such as pandas and matplotlib, the project explores churn rates, regional variations, and the impact of customer service calls on churn. Key steps include data preprocessing, merging datasets, and creating new features. The goal is to provide actionable insights to telecom companies to enhance customer retention and service quality.
 - **Skills:**
@@ -47,7 +47,7 @@ The project provided insights into regional churn patterns and customer service 
 ### SQL
 
 #### Project 2: [Project Name]
-- **Code:** [Project Code.sql](link_to_code)
+- **Code:** [Project Code.sql](UCDPA_DANYELLASANTANA(1).ipynb)
 - **Goal:** [Brief description of the project goal]
 - **Description:** [Detailed description of the project]
 - **Skills:** [Skills utilized in the project]
