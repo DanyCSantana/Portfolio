@@ -28,15 +28,9 @@ This repository serves as a platform to showcase my skills, share projects, and 
 - **Goal:** Analyze customer churn in the telecom industry to provide insights for improving customer retention strategies.
 - **Description:** This project focuses on analyzing customer churn using Python, with a dataset obtained from Kaggle. The dataset includes customer demographics, call usage patterns, and service interactions. Using Python libraries such as pandas and matplotlib, the project explores churn rates, regional variations, and the impact of customer service calls on churn. Key steps include data preprocessing, merging datasets, and creating new features. The goal is to provide actionable insights to telecom companies to enhance customer retention and service quality.
 - **Skills:**
-- Data Manipulation
-Data Visualization
-Statistical Analysis
-Data Preprocessing
+- Data Manipulation; Data Visualization; Statistical Analysis; Data Preprocessing
 - **Technology:**
-Python
-Pandas
-Matplotlib
-Seaborn
+- Python; Pandas; Matplotlib; Seaborn
 - **Results:** The total churn rate for the telecom company is 14.5%, with significant regional variations.
 The South region has the highest churn count, but the Northeast has the highest churn percentage at 17%.
 Analysis revealed that 81% of churned customers and 78% of non-churned customers contacted customer service at least once.
@@ -46,13 +40,17 @@ The project provided insights into regional churn patterns and customer service 
 
 ### SQL
 
-#### Project 2: [Project Name]
-- **Code:** [Project Code.sql](UCDPA_DANYELLASANTANA(1).ipynb)
-- **Goal:** [Brief description of the project goal]
-- **Description:** [Detailed description of the project]
-- **Skills:** [Skills utilized in the project]
-- **Technology:** [Technologies used]
-- **Results:** [Outcome or results achieved]
+#### Project 2: Budget Estimation for Marketing Campaigns
+- **Code:** [Budget_Estimation.sql](https://github.com/DanyCSantana/SQL-Projects/blob/main/25%20-%20Modelo_Or%C3%A7amento_2018_Vworking_Periodo_incompleto.sas))
+- **Goal:** To create an accurate budget estimate for upcoming marketing campaigns based on historical data and projected needs.
+- **Description:** This project involved analyzing historical spending data and projected requirements to develop a comprehensive budget for marketing campaigns. Using SQL queries, I aggregated and analyzed data from various sources to determine cost distribution and forecast future expenses. The project included data cleaning, cost analysis, and generating budget reports to guide financial planning. The final output was a detailed budget proposal, providing insights into cost allocation and potential savings.
+- **Skills:**
+  - Data Analysis; Financial Forecasting; Data Cleaning; Report Generation
+- **Technology:**
+  - SQL; SAS; Excel
+- **Results:** Developed a detailed and accurate budget estimate for marketing campaigns, leading to improved financial planning and resource allocation. The proposal helped in optimizing the marketing budget, aligning it better with strategic goals, and resulted in a 15% reduction in unnecessary expenditures.
+
+---
 
 ### Power BI
 
