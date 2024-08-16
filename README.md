@@ -10,9 +10,6 @@ This repository serves as a platform to showcase my skills, share projects, and 
 - [Portfolio Projects](#portfolio-projects)
   - [Python](#python)
   - [SQL](#sql)
-  - [Power BI](#power-bi)
-  - [Excel / Google Sheets](#excel--google-sheets)
-  - [Tableau](#tableau)
 - [Education](#education)
 - [Certifications](#certifications)
 - [Contact](#contact)
@@ -51,37 +48,6 @@ The project provided insights into regional churn patterns and customer service 
 - **Results:** Developed a detailed and accurate budget estimate for marketing campaigns, leading to improved financial planning and resource allocation. The proposal helped in optimizing the marketing budget, aligning it better with strategic goals, and resulted in a 15% reduction in unnecessary expenditures.
 
 ---
-
-### Power BI
-
-#### Project 3: [Project Name]
-- **Code:** [Project Code.pbix](link_to_code)
-- **Goal:** [Brief description of the project goal]
-- **Description:** [Detailed description of the project]
-- **Skills:** [Skills utilized in the project]
-- **Technology:** [Technologies used]
-- **Results:** [Outcome or results achieved]
-
-### Excel / Google Sheets
-
-#### Project 4: [Project Name]
-- **Code:** [Project Code.xlsx](link_to_code)
-- **Goal:** [Brief description of the project goal]
-- **Description:** [Detailed description of the project]
-- **Skills:** [Skills utilized in the project]
-- **Technology:** [Technologies used]
-- **Results:** [Outcome or results achieved]
-
-### Tableau
-
-#### Project 5: [Project Name]
-- **Code:** [Project Code.twbx](link_to_code)
-- **Goal:** [Brief description of the project goal]
-- **Description:** [Detailed description of the project]
-- **Skills:** [Skills utilized in the project]
-- **Technology:** [Technologies used]
-- **Results:** [Outcome or results achieved]
-
 ---
 
 ## 📚 Education
