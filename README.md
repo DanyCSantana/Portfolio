@@ -38,7 +38,7 @@ The project provided insights into regional churn patterns and customer service 
 ### SQL
 
 #### Project 2: Budget Estimation for Marketing Campaigns
-- **Code:** [Budget_Estimation.sql](https://github.com/DanyCSantana/SQL-Projects/blob/main/25%20-%20Modelo_Or%C3%A7amento_2018_Vworking_Periodo_incompleto.sas))
+- **Code:** [Budget_Estimation.sql](https://github.com/DanyCSantana/SQL-Projects/blob/main/25%20-%20Modelo_Or%C3%A7amento_2018_Vworking_Periodo_incompleto.sas)
 - **Goal:** To create an accurate budget estimate for upcoming marketing campaigns based on historical data and projected needs.
 - **Description:** This project involved analyzing historical spending data and projected requirements to develop a comprehensive budget for marketing campaigns. Using SQL queries, I aggregated and analyzed data from various sources to determine cost distribution and forecast future expenses. The project included data cleaning, cost analysis, and generating budget reports to guide financial planning. The final output was a detailed budget proposal, providing insights into cost allocation and potential savings.
 - **Skills:**
