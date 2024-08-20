@@ -34,10 +34,27 @@ Analysis revealed that 81% of churned customers and 78% of non-churned customers
 Notable churn was found in customers with account lengths of 6 to 10 years.
 The project provided insights into regional churn patterns and customer service impact, helping to identify areas for targeted retention strategies.
 
+#### Project 2: Image Management and Processing Script
+
+- **Code:** [ImageProcessingScript.py](link_to_your_script)
+- **Goal:** Streamline the process of finding, copying, resizing, and cropping images from a large directory structure, significantly reducing the time required for image management tasks.
+- **Description:** This script performs comprehensive image management by:
+  1. **Image Copying:** 
+     - Searches through a specified source directory and its subdirectories to locate image folders categorized as "Poster" or "Still."
+     - Matches image files against a list of show names extracted from an Excel file.
+     - Copies relevant images to user-defined destination directories based on their category (Poster or Still), ensuring accurate organization.
+  2. **Image Resizing and Cropping:**
+     - Prompts the user for source and destination directories, as well as a list of desired image dimensions.
+     - Resizes and crops images from the source directory to each specified dimension.
+     - Saves the processed images in appropriately named folders, accommodating any number of dimensions and supporting a wide range of file types.
+- **Skills:** Efficient file management, advanced image processing, user interaction handling, and data extraction from Excel.
+- **Technology:** Python, PIL (Pillow), Pandas, regular expressions, OS library.
+- **Results:** The script drastically reduces image management time from approximately 8 hours to around 5 minutes by automating repetitive tasks. It efficiently processes images across multiple folders and handles an unlimited number of dimensions, transforming a previously labor-intensive task into a streamlined process.
+
 
 ### SQL
 
-#### Project 2: Budget Estimation for Marketing Campaigns
+#### Project 3: Budget Estimation for Marketing Campaigns
 - **Code:** [Budget_Estimation.sql](https://github.com/DanyCSantana/SQL-Projects/blob/main/25%20-%20Modelo_Or%C3%A7amento_2018_Vworking_Periodo_incompleto.sas)
 - **Goal:** To create an accurate budget estimate for upcoming marketing campaigns based on historical data and projected needs.
 - **Description:** This project involved analyzing historical spending data and projected requirements to develop a comprehensive budget for marketing campaigns. Using SQL queries, I aggregated and analyzed data from various sources to determine cost distribution and forecast future expenses. The project included data cleaning, cost analysis, and generating budget reports to guide financial planning. The final output was a detailed budget proposal, providing insights into cost allocation and potential savings.
