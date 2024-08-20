@@ -36,7 +36,7 @@ The project provided insights into regional churn patterns and customer service 
 
 #### Project 2: Image Management and Processing Script
 
-- **Code:** [ImageProcessingScript.py](link_to_your_script)
+- **Code:** [ImageProcessingScript.py]([link_to_your_script](https://github.com/DanyCSantana/Python-Project/blob/main/Image%20Management%20and%20Processing%20Script(1).ipynb))
 - **Goal:** Streamline the process of finding, copying, resizing, and cropping images from a large directory structure, significantly reducing the time required for image management tasks.
 - **Description:** This script performs comprehensive image management by:
   1. **Image Copying:** 
