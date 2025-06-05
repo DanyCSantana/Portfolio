@@ -69,7 +69,6 @@ This repository serves as a platform to showcase my skills, share projects, and 
 - **Results:** Developed a detailed and accurate budget estimate for marketing campaigns, leading to improved financial planning and resource allocation. The proposal helped in optimizing the marketing budget, aligning it better with strategic goals, and resulted in a 15% reduction in unnecessary expenditures.
 
 ---
----
 
 ## 📚 Education / Certifications
 - **Master of Business Administration - MBA**
