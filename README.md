@@ -1,7 +1,7 @@
-# Danyella Santana - Portfolio
+# Dany Santana - Portfolio
 
 ## About
-Hello! I'm Danyella Santana, a Data Analyst based in Dublin, Ireland. With a background in SQL, Python, CRM, Tableau, and Power BI, I thrive on analyzing large datasets to derive actionable insights that drive business decisions. You can find my CV [here](https://github.com/DanyCSantana/Portfolio/blob/main/CV/DANYELLA%20SANTANA%20CV.pdf).
+Hello! I'm Dany Santana, a Data Analyst based in Dublin, Ireland. With a background in SQL, Python, CRM, Tableau, and Power BI, I thrive on analyzing large datasets to derive actionable insights that drive business decisions. You can find my CV [here](https://github.com/DanyCSantana/Portfolio/blob/main/CV/DANYELLA%20SANTANA%20CV.pdf).
 
 This repository serves as a platform to showcase my skills, share projects, and track my journey in Data Analysis and related fields.
 
@@ -15,41 +15,45 @@ This repository serves as a platform to showcase my skills, share projects, and 
 - [Contact](#contact)
 
 ---
-
 ## 🚀 Portfolio Projects
 
 ### Python
 
-#### Project 1: Telecom Churn Analysis
+#### Python Tool for Sourcing Images Across 800+ Folders
+
+- **Code:** [`ImageManagementScript.py`](https://github.com/DanyCSantana/Python-Project/blob/main/ImageManagementScript.py)  
+- **Goal:** Manage a large database of nearly **30,000 images** across **800+ distributor folders** using Python to automate the search, classification, and organization of posters and stills, reducing manual work by over **90%**.  
+- **Description:** Recursively searches through 300+ distributor folders to locate images matching movie titles from an Excel sheet, employs smart string matching to accurately identify relevant images, copies them to a structured output directory, updates the Excel tracker with results, and generates detailed missing-image reports with ready-to-send email drafts.  
+- **Skills:** Python scripting, file system automation, Excel integration (`pandas`, `openpyxl`), logging, regex, progress bars (`tqdm`).  
+- **Tech:** Python 3.x, pandas, openpyxl, pathlib, tqdm, logging.  
+- **Results:** Automated processing of ~30,000 images across 800+ folders, reduced image retrieval and organization time from several hours to under 10 minutes, with full traceability and comprehensive reporting.
+
+---
+
+### Bulk Dropbox Downloader and Image Sourcing with OCR Sorting
+
+- **Code:** [`dropbox_image_import.py`](https://github.com/DanyCSantana/Python-Project/blob/main/dropbox_image_import.py)  
+- **Goal:** Automate the bulk download, extraction, and processing of movie images from multiple Dropbox links listed in Excel. The script downloads ZIP files, extracts contents, uses OCR to identify posters based on multilingual text detection, and organizes images into clean, structured folders by movie title, eliminating manual downloads and sorting.  
+- **Description:** Handles the end-to-end pipeline for importing inflight entertainment images delivered via Dropbox. Processes include batch downloading, ZIP extraction, OCR-based classification, smart renaming based on Excel metadata, duplicate removal, and Excel tracker updates.  
+- **Skills:** Python scripting, HTTP requests, ZIP file handling, OCR (`pytesseract`), image processing (`Pillow`), Excel automation, file renaming and organization.  
+- **Tech:** Python, requests, zipfile, Pillow, pytesseract, pandas, OS.  
+- **Results:** Reduced manual workload for image sorting and naming by over **80%**, established a scalable and reusable workflow for processing image deliveries from multiple distributors, enhanced accuracy in image classification through OCR and consistent business logic.
+
+
+#### Telecom Churn Analysis
 - **Code:** [Python-Project](https://github.com/DanyCSantana/Python-Project/blob/main/UCDPA_DANYELLASANTANA(1).ipynb)
 - **Goal:** Analyze customer churn in the telecom industry to provide insights for improving customer retention strategies.
 - **Description:** This project focuses on analyzing customer churn using Python, with a dataset obtained from Kaggle. The dataset includes customer demographics, call usage patterns, and service interactions. Using Python libraries such as pandas and matplotlib, the project explores churn rates, regional variations, and the impact of customer service calls on churn. Key steps include data preprocessing, merging datasets, and creating new features. The goal is to provide actionable insights to telecom companies to enhance customer retention and service quality.
 - **Skills:**
-- Data Manipulation; Data Visualization; Statistical Analysis; Data Preprocessing
+  - Data Manipulation; Data Visualization; Statistical Analysis; Data Preprocessing
 - **Technology:**
-- Python; Pandas; Matplotlib; Seaborn
+  - Python; Pandas; Matplotlib; Seaborn
 - **Results:** The total churn rate for the telecom company is 14.5%, with significant regional variations.
-The South region has the highest churn count, but the Northeast has the highest churn percentage at 17%.
-Analysis revealed that 81% of churned customers and 78% of non-churned customers contacted customer service at least once.
-Notable churn was found in customers with account lengths of 6 to 10 years.
-The project provided insights into regional churn patterns and customer service impact, helping to identify areas for targeted retention strategies.
+  The South region has the highest churn count, but the Northeast has the highest churn percentage at 17%.
+  Analysis revealed that 81% of churned customers and 78% of non-churned customers contacted customer service at least once.
+  Notable churn was found in customers with account lengths of 6 to 10 years.
+  The project provided insights into regional churn patterns and customer service impact, helping to identify areas for targeted retention strategies.
 
-#### Project 2: Image Management and Processing Script
-
-- **Code:** [ImageProcessingScript](https://github.com/DanyCSantana/Python-Project/blob/main/Image%20Management%20and%20Processing%20Script(1).ipynb)
-- **Goal:** Streamline the process of finding, copying, resizing, and cropping images from a large directory structure, significantly reducing the time required for image management tasks.
-- **Description:** This script performs comprehensive image management by:
-  1. **Image Copying:** 
-     - Searches through a specified source directory and its subdirectories to locate image folders categorized as "Poster" or "Still."
-     - Matches image files against a list of show names extracted from an Excel file.
-     - Copies relevant images to user-defined destination directories based on their category (Poster or Still), ensuring accurate organization.
-  2. **Image Resizing and Cropping:**
-     - Prompts the user for source and destination directories, as well as a list of desired image dimensions.
-     - Resizes and crops images from the source directory to each specified dimension.
-     - Saves the processed images in appropriately named folders, accommodating any number of dimensions and supporting a wide range of file types.
-- **Skills:** Efficient file management, advanced image processing, user interaction handling, and data extraction from Excel.
-- **Technology:** Python, PIL (Pillow), Pandas, regular expressions, OS library.
-- **Results:** The script drastically reduces image management time from approximately 8 hours to around 5 minutes by automating repetitive tasks. It efficiently processes images across multiple folders and handles an unlimited number of dimensions, transforming a previously labor-intensive task into a streamlined process.
 
 
 ### SQL
@@ -67,11 +71,12 @@ The project provided insights into regional churn patterns and customer service 
 ---
 ---
 
-## 📚 Education
+## 📚 Education / Certifications
 - **Master of Business Administration - MBA**
   - *IT Project Management, FAVENI, 2021 - 2022*
-- **Bachelor of Business Administration - BBA**
-  - *Administração e Negócios, Universidade Federal Rural do Rio de Janeiro, Jan 2015 - Aug 2019*
+- **Bachelor of Business Administration - UFRRJ**
+- **Introductory Data Analyst Course - UCD Professional Academy** 
+- **Advanced Data Analytics, Google**
 
 ---
 
@@ -80,15 +85,11 @@ The project provided insights into regional churn patterns and customer service 
 - Tableau
 - SQL
 - SAS
-
----
-
-## 🎓 Certifications
-- Foundations of Data Science Certificate, Google 2024.
-- Introductory Data Analyst Course, UCD. Jul 2023
+- Prompt Engineering 
 
 ---
 
 ## 📞 Contact
 - Email: danycsantana@live.com
 - LinkedIn: [Danyella Santana](https://www.linkedin.com/in/danyella-santana)
+
