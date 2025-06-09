@@ -27,7 +27,13 @@ This repository serves as a platform to showcase my skills, share projects, and 
 - **Skills:** Python scripting, file system automation, Excel integration (`pandas`, `openpyxl`), logging, regex, progress bars (`tqdm`).  
 - **Tech:** Python 3.x, pandas, openpyxl, pathlib, tqdm, logging.  
 - **Results:** Automated processing of ~30,000 images across 800+ folders, reduced image retrieval and organization time from several hours to under 10 minutes, with full traceability and comprehensive reporting.
+**Code:** `ImageManagementScript.py`  
 
+**Goal:**  Efficiently source poster and still images requested by airlines by searching through a large image database of nearly 30,000 files spread across 800+ distributor folders using Python automation, reducing manual workload by over 90%.
+**Description:**  Recursively searches 300+ distributor folders to find images matching movie titles from an Excel sheet. Uses smart string matching, copies images to a structured output directory, updates the Excel tracker, and generates detailed missing-image reports with ready-to-send email drafts.
+**Skills:**  Python scripting, file system automation, Excel integration (`pandas`, `openpyxl`), logging, regex, progress bars (`tqdm`).
+**Tech:**  Python 3.x, pandas, openpyxl, pathlib, tqdm, logging.
+**Results:**  Streamlined the sourcing and organization of nearly 30,000 images across 800+ folders, reducing manual search time by over 90% from hours to under 10 minutes with full traceability and reporting.
 ---
 
 ### Bulk Dropbox Downloader and Image Sourcing with OCR Sorting
