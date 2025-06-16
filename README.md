@@ -42,7 +42,7 @@ This repository serves as a platform to showcase my skills, share projects, and 
 
 
 #### Telecom Churn Analysis
-- **Code:** [Churn-Project-Coursera](https://github.com/DanyCSantana/Churn-Project-Coursera)
+- **Code:** [Churn-Project-Coursera.py](https://github.com/DanyCSantana/Churn-Project-Coursera)
 - **Goal:** Analyze customer churn in the telecom industry to provide insights for improving customer retention strategies.
 - **Description:** This project focuses on analyzing customer churn using Python, with a dataset obtained from Kaggle. The dataset includes customer demographics, call usage patterns, and service interactions. Using Python libraries such as pandas and matplotlib, the project explores churn rates, regional variations, and the impact of customer service calls on churn. Key steps include data preprocessing, merging datasets, and creating new features. The goal is to provide actionable insights to telecom companies to enhance customer retention and service quality.
 - **Skills:**
