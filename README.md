@@ -1,7 +1,7 @@
 # Dany Santana - Portfolio
 
 ## About
-Hello! I'm Dany Santana, a Data Analyst based in Dublin, Ireland. With a background in SQL, Python, CRM, Tableau, and Power BI, I thrive on analyzing large datasets to derive actionable insights that drive business decisions. You can find my CV [here](https://github.com/DanyCSantana/Portfolio/blob/main/CV/DANYELLA%20SANTANA%20CV.pdf).
+Hello! I'm Dany Santana, a Data Analyst based in Dublin, Ireland. With a background in SQL, Python, CRM, Tableau, and Power BI, I thrive on analyzing large datasets to derive actionable insights that drive business decisions. You can find my CV [here](https://github.com/DanyCSantana/Portfolio/blob/main/Danyella_Santana_CV_2.docx).
 
 This repository serves as a platform to showcase my skills, share projects, and track my journey in Data Analysis and related fields.
 
