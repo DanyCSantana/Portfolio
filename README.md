@@ -21,12 +21,12 @@ This repository serves as a platform to showcase my skills, share projects, and 
 
 #### Python Tool for Sourcing Images Across 800+ Folders
 
-- **Code:** [`ImageManagementScript.py`](https://github.com/DanyCSantana/DanyCSantana/Image-Sourcing-Automation)  
--**Goal**: Automate the retrieval and organization of inflight entertainment posters and stills using a list of titles from an Excel tracker.
--**Description**: This Python script searches over 300 distributor folders (30,000+ images) to find only the images listed in an Excel file. It applies smart string matching, copies matched files to structured folders, updates the tracker, and creates reports for missing assets—including an email-ready draft for distributors.
--**Skills**: File automation, Excel integration, regex, reporting  
--**Tech**: Python, pandas, openpyxl, pathlib, tqdm
--**Results**: Reduced manual work by over 90%, cutting image sourcing time from hours to under 10 minutes.
+- **Code:** [`ImageManagementScript.py`](https://github.com/DanyCSantana/Image-Sourcing-Automation)  
+- **Goal**: Automate the retrieval and organization of inflight entertainment posters and stills using a list of titles from an Excel tracker.
+- **Description**: This Python script searches over 300 distributor folders (30,000+ images) to find only the images listed in an Excel file. It applies smart string matching, copies matched files to structured folders, updates the tracker, and creates reports for missing assets—including an email-ready draft for distributors.
+- **Skills**: File automation, Excel integration, regex, reporting  
+- **Tech**: Python, pandas, openpyxl, pathlib, tqdm
+- **Results**: Reduced manual work by over 90%, cutting image sourcing time from hours to under 10 minutes.
 
 
 ---
