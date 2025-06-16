@@ -21,19 +21,14 @@ This repository serves as a platform to showcase my skills, share projects, and 
 
 #### Python Tool for Sourcing Images Across 800+ Folders
 
-- **Code:** [`ImageManagementScript.py`](https://github.com/DanyCSantana/Python-Project/blob/main/ImageManagementScript.py)  
-- **Goal:** Manage a large database of nearly **30,000 images** across **800+ distributor folders** using Python to automate the search, classification, and organization of posters and stills, reducing manual work by over **90%**.  
-- **Description:** Recursively searches through 300+ distributor folders to locate images matching movie titles from an Excel sheet, employs smart string matching to accurately identify relevant images, copies them to a structured output directory, updates the Excel tracker with results, and generates detailed missing-image reports with ready-to-send email drafts.  
-- **Skills:** Python scripting, file system automation, Excel integration (`pandas`, `openpyxl`), logging, regex, progress bars (`tqdm`).  
-- **Tech:** Python 3.x, pandas, openpyxl, pathlib, tqdm, logging.  
-- **Results:** Automated processing of ~30,000 images across 800+ folders, reduced image retrieval and organization time from several hours to under 10 minutes, with full traceability and comprehensive reporting.
-**Code:** `ImageManagementScript.py`  
+- **Code:** [`ImageManagementScript.py`](https://github.com/DanyCSantana/DanyCSantana/Image-Sourcing-Automation)  
+-**Goal**: Automate the retrieval and organization of inflight entertainment posters and stills using a list of titles from an Excel tracker.
+-**Description**: This Python script searches over 300 distributor folders (30,000+ images) to find only the images listed in an Excel file. It applies smart string matching, copies matched files to structured folders, updates the tracker, and creates reports for missing assets—including an email-ready draft for distributors.
+-**Skills**: File automation, Excel integration, regex, reporting  
+-**Tech**: Python, pandas, openpyxl, pathlib, tqdm
+-**Results**: Reduced manual work by over 90%, cutting image sourcing time from hours to under 10 minutes.
 
-**Goal:**  Efficiently source poster and still images requested by airlines by searching through a large image database of nearly 30,000 files spread across 800+ distributor folders using Python automation, reducing manual workload by over 90%.
-**Description:**  Recursively searches 300+ distributor folders to find images matching movie titles from an Excel sheet. Uses smart string matching, copies images to a structured output directory, updates the Excel tracker, and generates detailed missing-image reports with ready-to-send email drafts.
-**Skills:**  Python scripting, file system automation, Excel integration (`pandas`, `openpyxl`), logging, regex, progress bars (`tqdm`).
-**Tech:**  Python 3.x, pandas, openpyxl, pathlib, tqdm, logging.
-**Results:**  Streamlined the sourcing and organization of nearly 30,000 images across 800+ folders, reducing manual search time by over 90% from hours to under 10 minutes with full traceability and reporting.
+
 ---
 
 ### Bulk Dropbox Downloader and Image Sourcing with OCR Sorting
@@ -60,19 +55,6 @@ This repository serves as a platform to showcase my skills, share projects, and 
   Notable churn was found in customers with account lengths of 6 to 10 years.
   The project provided insights into regional churn patterns and customer service impact, helping to identify areas for targeted retention strategies.
 
-
-
-### SQL
-
-#### Project 3: Budget Estimation for Marketing Campaigns
-- **Code:** [Budget_Estimation.sql](https://github.com/DanyCSantana/SQL-Projects/blob/main/25%20-%20Modelo_Or%C3%A7amento_2018_Vworking_Periodo_incompleto.sas)
-- **Goal:** To create an accurate budget estimate for upcoming marketing campaigns based on historical data and projected needs.
-- **Description:** This project involved analyzing historical spending data and projected requirements to develop a comprehensive budget for marketing campaigns. Using SQL queries, I aggregated and analyzed data from various sources to determine cost distribution and forecast future expenses. The project included data cleaning, cost analysis, and generating budget reports to guide financial planning. The final output was a detailed budget proposal, providing insights into cost allocation and potential savings.
-- **Skills:**
-  - Data Analysis; Financial Forecasting; Data Cleaning; Report Generation
-- **Technology:**
-  - SQL; SAS; Excel
-- **Results:** Developed a detailed and accurate budget estimate for marketing campaigns, leading to improved financial planning and resource allocation. The proposal helped in optimizing the marketing budget, aligning it better with strategic goals, and resulted in a 15% reduction in unnecessary expenditures.
 
 ---
 
