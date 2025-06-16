@@ -33,7 +33,7 @@ This repository serves as a platform to showcase my skills, share projects, and 
 
 ### Bulk Dropbox Downloader and Image Sourcing with OCR Sorting
 
-- **Code:** [`dropbox_image_import.py`](https://github.com/DanyCSantana/Python-Project/blob/main/dropbox_image_import.py)  
+- **Code:** [`dropbox_image_import.py`](https://github.com/DanyCSantana/Automate-Dropbox-downloader)  
 - **Goal:** Automate the bulk download, extraction, and processing of movie images from multiple Dropbox links listed in Excel. The script downloads ZIP files, extracts contents, uses OCR to identify posters based on multilingual text detection, and organizes images into clean, structured folders by movie title, eliminating manual downloads and sorting.  
 - **Description:** Handles the end-to-end pipeline for importing inflight entertainment images delivered via Dropbox. Processes include batch downloading, ZIP extraction, OCR-based classification, smart renaming based on Excel metadata, duplicate removal, and Excel tracker updates.  
 - **Skills:** Python scripting, HTTP requests, ZIP file handling, OCR (`pytesseract`), image processing (`Pillow`), Excel automation, file renaming and organization.  
