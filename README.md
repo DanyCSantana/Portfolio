@@ -28,6 +28,16 @@ This repository serves as a platform to showcase my skills, share projects, and 
 - **Tech**: Python, pandas, openpyxl, pathlib, tqdm
 - **Results**: Reduced manual work by over 90%, cutting image sourcing time from hours to under 10 minutes.
 
+### Image Automation Suite for Entertainment Media Images
+
+- **Code:** [`image_automation_suite`](https://github.com/DanyCSantana/image_automation_suite)  
+- **Goal:** Automate resizing, cropping, and organizing large batches of inflight entertainment images (posters and stills) into multiple target dimensions with standardized naming and folder structure.  
+- **Description:**  
+  This Python-based suite dramatically reduces manual effort required to prepare images for inflight entertainment systems. Manually resizing and cropping 200 images into 4 different sizes can take over 10 hours in tools like Photoshop. This suite accomplishes it in about 10-15 minutes while ensuring consistent quality and file organization.  
+  It supports center and top cropping options, optimized JPEG output, and interactive terminal usage.  
+- **Skills:** Image processing, batch automation, file management, CLI interface  
+- **Tech:** Python, Pillow, tqdm  
+- **Results:** Time saved by over 90%, improved consistency, and automation of repetitive tasks enabling focus on higher-level work.
 
 ---
 
