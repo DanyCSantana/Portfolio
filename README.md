@@ -73,7 +73,7 @@ This repository serves as a platform to showcase my skills, share projects, and 
   - *IT Project Management, FAVENI, 2021 - 2022*
 - **Bachelor of Business Administration - UFRRJ**
 - **Introductory Data Analyst Course - UCD Professional Academy** 
-- **Advanced Data Analytics, Google**
+- **Google Advanced Data Analytics Professional Certificate**
 
 ---
 
