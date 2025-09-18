@@ -1,92 +1,109 @@
-# Dany Santana - Portfolio
+# 💼 Dany Santana - Data Analytics Portfolio
 
-## About
-Hello! I'm Dany Santana, a Data Analyst based in Dublin, Ireland. With a background in SQL, Python, CRM, Tableau, and Power BI, I thrive on analyzing large datasets to derive actionable insights that drive business decisions. You can find my CV [here](https://github.com/DanyCSantana/Portfolio/blob/main/Danyella_Santana_CV.pdf).
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboards-green)
+![SQL](https://img.shields.io/badge/SQL-Data%20Modeling-orange)
+![Tableau](https://img.shields.io/badge/Tableau-Visualization-blueviolet)
+![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black)
 
-This repository serves as a platform to showcase my skills, share projects, and track my journey in Data Analysis and related fields.
+---
+
+## 👋 About Me
+Hello! I'm **Dany Santana**, a **Data Analyst** based in Dublin, Ireland.  
+With over **7 years of experience** in **data analysis, SQL, Python, and BI tools**, I thrive on transforming raw datasets into **actionable insights** that drive business growth.  
+
+- 📊 Experienced in **SQL, Python, Power BI, Tableau, and Excel (VBA)**.  
+- 🚀 Skilled in **ETL, data cleaning, enrichment, automation, and visualization**.  
+- 🌍 Fluent in **English, Portuguese, and Spanish**.  
+- 📄 My CV is available [here](https://github.com/DanyCSantana/Portfolio/blob/main/Danyella_Santana_CV.pdf).
+
+This repository showcases my projects across **Python, SQL, and Business Intelligence**.
+
+---
 
 ## 📚 Table of Contents
-- [About](#about)
-- [Portfolio Projects](#portfolio-projects)
-  - [Python](#python)
-  - [SQL](#sql)
-- [Education](#education)
-- [Certifications](#certifications)
-- [Contact](#contact)
+- [Portfolio Projects](#-portfolio-projects)
+  - [SQL + Python + Power BI](#sql--python--power-bi)
+  - [Python Automation](#python-automation)
+  - [SQL Projects](#sql-projects)
+- [Education & Certifications](#-education--certifications)
+- [Skills](#-skills)
+- [Contact](#-contact)
 
 ---
+
 ## 🚀 Portfolio Projects
 
-### Python
+### 🥃 SQL + Python + Power BI
+#### Diageo Market Insights Case Study
+- **Repo:** [sql-python-powerbi-sales-insights](https://github.com/DanyCSantana/sql-python-powerbi-sales-insights)  
+- **Goal:** End-to-end project analyzing Diageo’s performance in the Iowa liquor market.  
+- **Tech:** SQL, DuckDB, Python (pandas), Power BI, PowerPoint.  
+- **Highlights:**  
+  - Processed **26M+ rows** of liquor sales data with DuckDB & Python.  
+  - Built **dimension tables** and standardized vendors/categories.  
+  - Designed **interactive dashboards** in Power BI.  
+  - Created an **executive presentation** summarizing key insights.  
 
-#### Python Tool for Sourcing Images Across 800+ Folders
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DanyCSantana/sql-python-powerbi-sales-insights/main/meu_gif_completo.gif" width="600">
+</p>
 
-- **Code:** [`ImageManagementScript.py`](https://github.com/DanyCSantana/Image-Sourcing-Automation)  
-- **Goal**: Automate the retrieval and organization of inflight entertainment posters and stills using a list of titles from an Excel tracker.
-- **Description**: This Python script searches over 300 distributor folders (30,000+ images) to find only the images listed in an Excel file. It applies smart string matching, copies matched files to structured folders, updates the tracker, and creates reports for missing assets—including an email-ready draft for distributors.
-- **Skills**: File automation, Excel integration, regex, reporting  
-- **Tech**: Python, pandas, openpyxl, pathlib, tqdm
-- **Results**: Reduced manual work by over 90%, cutting image sourcing time from hours to under 10 minutes.
-
-### Image Automation Suite for Entertainment Media Images
-
-- **Code:** [`image_automation_suite`](https://github.com/DanyCSantana/image_automation_suite)  
-- **Goal:** Automate resizing, cropping, and organizing large batches of inflight entertainment images (posters and stills) into multiple target dimensions with standardized naming and folder structure.  
-- **Description:**  
-  This Python-based suite dramatically reduces manual effort required to prepare images for inflight entertainment systems. Manually resizing and cropping 200 images into 4 different sizes can take over 10 hours in tools like Photoshop. This suite accomplishes it in about 10-15 minutes while ensuring consistent quality and file organization.  
-  It supports center and top cropping options, optimized JPEG output, and interactive terminal usage.  
-- **Skills:** Image processing, batch automation, file management, CLI interface  
-- **Tech:** Python, Pillow, tqdm  
-- **Results:** Time saved by over 90%, improved consistency, and automation of repetitive tasks enabling focus on higher-level work.
+📈 **Key Insight:** Diageo leads in revenue, but competitors like Sazerac dominate in sales volume. Vodka & whiskey remain the most competitive categories.
 
 ---
 
-### Bulk Dropbox Downloader and Image Sourcing with OCR Sorting
+### 🐍 Python Automation
 
-- **Code:** [`dropbox_image_import.py`](https://github.com/DanyCSantana/Automate-Dropbox-downloader)  
-- **Goal:** Automate the bulk download, extraction, and processing of movie images from multiple Dropbox links listed in Excel. The script downloads ZIP files, extracts contents, uses OCR to identify posters based on multilingual text detection, and organizes images into clean, structured folders by movie title, eliminating manual downloads and sorting.  
-- **Description:** Handles the end-to-end pipeline for importing inflight entertainment images delivered via Dropbox. Processes include batch downloading, ZIP extraction, OCR-based classification, smart renaming based on Excel metadata, duplicate removal, and Excel tracker updates.  
-- **Skills:** Python scripting, HTTP requests, ZIP file handling, OCR (`pytesseract`), image processing (`Pillow`), Excel automation, file renaming and organization.  
-- **Tech:** Python, requests, zipfile, Pillow, pytesseract, pandas, OS.  
-- **Results:** Reduced manual workload for image sorting and naming by over **80%**, established a scalable and reusable workflow for processing image deliveries from multiple distributors, enhanced accuracy in image classification through OCR and consistent business logic.
+#### Image Automation Suite for Entertainment Media
+- **Repo:** [image_automation_suite](https://github.com/DanyCSantana/image_automation_suite)  
+- **Goal:** Automate resizing, cropping, and organizing large batches of inflight entertainment images.  
+- **Skills:** Pillow, automation, batch processing, CLI.  
+- **Result:** Reduced manual effort by **90%** — 200 images processed in 10–15 minutes.  
 
+---
+
+#### Dropbox Downloader & OCR Sorting
+- **Repo:** [Automate-Dropbox-downloader](https://github.com/DanyCSantana/Automate-Dropbox-downloader)  
+- **Goal:** Automate bulk downloads, extractions, OCR classification, and organization of movie images.  
+- **Skills:** Python (requests, zipfile, pytesseract, pandas).  
+- **Result:** Automated the pipeline, reducing manual work by **80%**.  
+
+---
 
 #### Telecom Churn Analysis
-- **Code:** [Churn-Project-Coursera.py](https://github.com/DanyCSantana/Churn-Project-Coursera)
-- **Goal:** Analyze customer churn in the telecom industry to provide insights for improving customer retention strategies.
-- **Description:** This project focuses on analyzing customer churn using Python, with a dataset obtained from Kaggle. The dataset includes customer demographics, call usage patterns, and service interactions. Using Python libraries such as pandas and matplotlib, the project explores churn rates, regional variations, and the impact of customer service calls on churn. Key steps include data preprocessing, merging datasets, and creating new features. The goal is to provide actionable insights to telecom companies to enhance customer retention and service quality.
-- **Skills:**
-  - Data Manipulation; Data Visualization; Statistical Analysis; Data Preprocessing
-- **Technology:**
-  - Python; Pandas; Matplotlib; Seaborn
-- **Results:** The total churn rate for the telecom company is 14.5%, with significant regional variations.
-  The South region has the highest churn count, but the Northeast has the highest churn percentage at 17%.
-  Analysis revealed that 81% of churned customers and 78% of non-churned customers contacted customer service at least once.
-  Notable churn was found in customers with account lengths of 6 to 10 years.
-  The project provided insights into regional churn patterns and customer service impact, helping to identify areas for targeted retention strategies.
-
+- **Repo:** [Churn-Project-Coursera](https://github.com/DanyCSantana/Churn-Project-Coursera)  
+- **Goal:** Explore customer churn patterns using Kaggle data.  
+- **Skills:** Data wrangling, statistical analysis, visualization.  
+- **Result:** Identified **regional churn variations** and the impact of customer service calls on retention.  
 
 ---
 
-## 📚 Education / Certifications
-- **Master of Business Administration - MBA**
-  - *IT Project Management, FAVENI, 2021 - 2022*
-- **Bachelor of Business Administration - UFRRJ**
-- **Introductory Data Analyst Course - UCD Professional Academy** 
-- **Google Advanced Data Analytics Professional Certificate**
+### 🗄 SQL Projects
+- **SQL for Marketing Analysis (Oi Telecom)**  
+  - Managed a database of **8M+ customers**.  
+  - Built churn prediction models and market segmentation.  
+  - Delivered reports that informed customer retention strategies.  
 
 ---
 
-## 🔝 Top Skills
-- Python (Programming Language)
-- Tableau
-- SQL
-- SAS
-- Prompt Engineering 
+## 🎓 Education & Certifications
+- **MBA in IT Project Management**, FAVENI (2021–2022)  
+- **BBA – Business Administration**, UFRRJ  
+- **Introductory Data Analytics**, UCD Professional Academy (2023)  
+- **Google Advanced Data Analytics Professional Certificate** (2024)  
+
+---
+
+## 🔝 Skills
+- **Programming:** Python (pandas, openpyxl, Pillow, regex, automation).  
+- **Databases:** SQL, DuckDB, PostgreSQL.  
+- **Visualization:** Power BI, Tableau, Excel (advanced, VBA).  
+- **Other:** OCR, automation, data storytelling, reporting.  
 
 ---
 
 ## 📞 Contact
-- Email: danycsantana@live.com
-- LinkedIn: [Danyella Santana](https://www.linkedin.com/in/danyella-santana)
-
+- 📧 Email: danycsantana@live.com  
+- 💼 LinkedIn: [Danyella Santana](https://www.linkedin.com/in/danyella-santana)  
+- 🖥 GitHub: [DanyCSantana](https://github.com/DanyCSantana)  
