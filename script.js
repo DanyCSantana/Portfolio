@@ -1,0 +1,1 @@
+document.querySelectorAll('a[href^="#"]').forEach(a=>a.addEventListener("click",()=>{window.dispatchEvent(new CustomEvent("portfolio_nav",{detail:{section:a.getAttribute("href")}}))}));
