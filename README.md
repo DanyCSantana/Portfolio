@@ -1,4 +1,4 @@
-# 💼 Dany Santana - Data Analytics Portfolio
+# Dany Santana - Data Analytics Portfolio
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboards-green)
