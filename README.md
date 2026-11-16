@@ -10,7 +10,7 @@
 
 ## 👋 About Me
 Hello! I'm **Dany Santana**, a **Data Analyst** based in Dublin, Ireland.  
-With over **7 years of experience** in **data analysis, SQL, Python, and BI tools**, I thrive on transforming raw datasets into **actionable insights** that drive business growth.  
+With over **8 years of experience** in **data analysis, SQL, Python, and BI tools**, I thrive on transforming raw datasets into **actionable insights** that drive business growth.  
 
 - 📊 Experienced in **SQL, Python, Power BI, Tableau, and Excel (VBA)**.  
 - 🚀 Skilled in **ETL, data cleaning, enrichment, automation, and visualization**.  
