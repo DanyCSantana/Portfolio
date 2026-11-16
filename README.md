@@ -34,7 +34,7 @@ This repository showcases my projects across **Python, SQL, and Business Intelli
 
 ## 🚀 Portfolio Projects
 
-### 🥃 SQL + Python + Power BI
+### SQL + Python + Power BI
 #### Diageo Market Insights Case Study
 - **Repo:** [sql-python-powerbi-sales-insights](https://github.com/DanyCSantana/sql-python-powerbi-sales-insights)  
 - **Goal:** End-to-end project analyzing Diageo’s performance in the Iowa liquor market.  
